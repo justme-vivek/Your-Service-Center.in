@@ -20465,10 +20465,10 @@ const w2 = [
         s.preventDefault();
         try {
           if (typeof window !== "undefined" && window.sendBookingToWhatsApp) {
-            window.sendBookingToWhatsApp(r, "919241928068");
+            window.sendBookingToWhatsApp(r, "917856066176");
           } else {
             const l = `*New Service Booking Request*\n\nName: ${r.name}\nPhone: ${r.phone}\nService: ${r.service}\nAddress: ${r.address}`,
-              a = `https://wa.me/919241928068?text=${encodeURIComponent(l)}`;
+              a = `https://wa.me/917856066176?text=${encodeURIComponent(l)}`;
             window.open(a, "_blank");
           }
         } catch (e) {
@@ -20768,7 +20768,7 @@ const w2 = [
                       children: "Book a Service",
                     }),
                     c.jsx("a", {
-                      href: "tel:+919241928068",
+                      href: "tel:+917856066176",
                       children: c.jsx(_t, {
                         variant: "outline",
                         className:
@@ -21035,7 +21035,7 @@ const w2 = [
               className: "grid md:grid-cols-2 gap-6",
               children: [
                 c.jsx("a", {
-                  href: "tel:+919241928068",
+                  href: "tel:+917856066176",
                   className:
                     "bg-white rounded-3xl p-8 shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-105 cursor-pointer group",
                   children: c.jsxs("div", {
@@ -21054,7 +21054,7 @@ const w2 = [
                       }),
                       c.jsx("p", {
                         className: "text-2xl text-primary",
-                        children: "+91 92419 28068",
+                        children: "+91 78560 66176",
                       }),
                       c.jsx("p", {
                         className: "text-sm text-muted-foreground mt-2",
@@ -21343,10 +21343,10 @@ const w2 = [
                           c.jsx("div", {
                             className: "text-center pt-2",
                             children: c.jsx("a", {
-                              href: "tel:+919241928068",
+                              href: "tel:+917856066176",
                               className:
                                 "text-sm text-primary hover:text-primary/80",
-                              children: "or call +91 92419 28068",
+                              children: "or call +91 78560 66176",
                             }),
                           }),
                         ],
@@ -21571,10 +21571,10 @@ const w2 = [
                           c.jsx("div", {
                             className: "text-center pt-2",
                             children: c.jsx("a", {
-                              href: "tel:+919241928068",
+                              href: "tel:+917856066176",
                               className:
                                 "text-sm text-primary hover:text-primary/80",
-                              children: "or call +91 92419 28068",
+                              children: "or call +91 78560 66176",
                             }),
                           }),
                         ],
@@ -21804,10 +21804,10 @@ const w2 = [
                           c.jsx("div", {
                             className: "text-center pt-2",
                             children: c.jsx("a", {
-                              href: "tel:+919241928068",
+                              href: "tel:+917856066176",
                               className:
                                 "text-sm text-primary hover:text-primary/80",
-                              children: "or call +91 92419 28068",
+                              children: "or call +91 78560 66176",
                             }),
                           }),
                         ],
@@ -22044,10 +22044,10 @@ const w2 = [
                           c.jsx("div", {
                             className: "text-center pt-2",
                             children: c.jsx("a", {
-                              href: "tel:+919241928068",
+                              href: "tel:+917856066176",
                               className:
                                 "text-sm text-primary hover:text-primary/80",
-                              children: "or call +91 92419 28068",
+                              children: "or call +91 78560 66176",
                             }),
                           }),
                         ],
